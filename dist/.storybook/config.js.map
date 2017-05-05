@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../.storybook/config.js"],"names":["loadStories","require","module"],"mappings":";;AAAA;;AAEA,SAASA,WAAT,GAAuB;AACrBC,UAAQ,gBAAR;AACD;;AAED,0BAAUD,WAAV,EAAuBE,MAAvB","file":"config.js","sourcesContent":["import { configure } from '@kadira/storybook';\n\nfunction loadStories() {\n  require('../src/stories');\n}\n\nconfigure(loadStories, module);\n"]}

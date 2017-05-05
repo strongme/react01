@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Game.js"],"names":[],"mappings":";;AAIA;;;;AACA","file":"Game.js","sourcesContent":["/**\n * Created by Walter on 2017/5/5.\n */\n\nimport React from 'react';\nimport './index.css';\n\n"]}

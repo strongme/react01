@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/add.js"],"names":["add","a","b"],"mappings":";;;;;kBAIwBA,G;AAJxB;;;;AAIe,SAASA,GAAT,CAAaC,CAAb,EAAgBC,CAAhB,EAAmB;;AAE9B,SAAOD,IAAIC,CAAX;AAEH","file":"add.js","sourcesContent":["/**\n * Created by Walter on 2017/5/5.\n */\n\nexport default function add(a, b) {\n\n    return a + b;\n\n};"]}

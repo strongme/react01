@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/Square.js"],"names":[],"mappings":";;AAIA;;;;AACA;;;;AACA","file":"Square.js","sourcesContent":["/**\n * Created by Walter on 2017/5/5.\n */\n\nimport React from 'react';\nimport ReactDOM from 'react-dom';\nimport './index.css';\n\n"]}
